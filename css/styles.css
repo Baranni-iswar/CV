@@ -1,0 +1,52 @@
+body {
+  /*  background-image: url("H:/My Drive/Project/Webpages/Portfolio/images/-1_orig (7).jpg"); */
+  margin: 0;
+  text-align: center;
+  color: #222831;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+/*Opener*/
+.header {height: 700px; background-color: #eeeeee; width: 100%;  z-index: -1;  position: fixed;}
+.chumma {height: 700px;}
+.cloud {height: 80px;  position: fixed;}
+.mount {height: 100px;  position: fixed;}
+.birds {height: 30px;  position: fixed;}
+#bike {position: fixed;  height: 80px;  top: 565px;  left: 600px;}
+#road {border: 0;  margin: 0;  position: fixed;  background-color: #00ad85;  height: 5px;  width: 100%;  top: 630px;}
+#c1 {left: 200px;  top: 250px;}
+#c2 {left: 900px;  top: 150px;}
+#c3 {left: 1050px;  top: 350px;}
+#m1 {left: 50px;  top: 558px;}
+#m2 {left: 300px;  top: 555px;}
+#m3 {left: 1050px;  top: 555px;}
+#b1 {left: 50px;  top: 450px;}
+#b2 {left: 1150px;  top: 80px;  height: 20px;}
+#b3 {left: 450px;  top: 150px;}
+#b4 {left: 650px;  top: 500px;  height: 20px;}
+#b5 {left: 1250px;  top: 450px;}
+.name {font-family: 'Kaushan Script', cursive;  font-size: 3.75rem;  color: #00AD85;  width: 25%;  margin: 250px auto 0 auto;}
+.pm {font-size: 1.25rem;  color: #00AD85;  margin: 0 auto;}
+
+.rest {background-color: #00ad85; margin: 0}
+
+.intro {width: 100%; text-align: center}
+#title {height: 250px; border-radius: 100%; margin: 30px 0;}
+h2 {font-size: 2.5rem; margin: 0; padding: 0 0 30px 0;}
+.p {font-size: 1.2rem; width: 35%; margin: 0 auto;}
+
+hr {margin: 100px auto 100px; width: 5%; border: dotted 4px; border-bottom: none; color: #444444}
+
+.skills {text-align: center; width: 100%;}
+.skill-row {height: 150px; width: 50%; margin: 0 auto; padding-bottom: 30px;}
+.skill-icon {height: 150px; margin: 0 50px 0 0; float: left;} .appalika {float: right; margin: 0 0 0 50px;}
+.skill-content {text-align: left; width: 100%}
+h4 {font-size: 2rem; margin: 10px 0;}
+
+.contact-me {height: 250px; text-align: center; width: 100%;}
+.contact-row {width: 30%; margin: 0 auto;}
+.bullet {height: 20px; float: left; margin: 0 20px 0 0;}
+.point {text-align: left; width: 100%;}
+
+.footer {background-color: #222831; padding-top: 30px; padding-bottom: 30px;}
+.links {text-decoration: none; margin: 0 50px; color: #eeeeee;}
