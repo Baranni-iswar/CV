@@ -51,7 +51,7 @@ h4 {font-size: 2rem; margin: 10px 0;}
 .footer {background-color: #222831; padding-top: 30px; padding-bottom: 30px;}
 .links {text-decoration: none; margin: 0 50px; color: #eeeeee;}
 
-@media (max-width: 500px) {
+@media (max-width: 400px) {
   .name {font-size: 2.1rem; width: 60%; margin: 100px auto 0 auto;}
   .pm {font-size: 1rem;}
   .cloud {height: 50px; }
